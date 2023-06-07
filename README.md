@@ -49,7 +49,8 @@ namespace Recursive_Function
 ~~~
 
 ##Output:
+
 ![image](https://github.com/21005984/Recursive-function/assets/94748389/a3bd980a-add5-475e-b483-53277d948a0e)
 
 ##Result:
-Create a function for reversing.
+Thus the C# program to reverse a number using recursive function is executed successfully.
